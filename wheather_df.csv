@@ -1,0 +1,281 @@
+place_id,city,lat,lon,date,humidity (%),wind_speed (km/h),summary,temp_day (°C),temp_min (°C),temp_max (°C),feels_like_day (°C),feels_like_night (°C),pop (%),rain (mm)
+245061662,Mont Saint-Michel,48.6359541,-1.511459954959514,2023-11-13,92,11.83,Expect a day of partly cloudy with rain,15.98,12.37,16.24,16.04,11.93,100.0,3.32
+245061662,Mont Saint-Michel,48.6359541,-1.511459954959514,2023-11-14,90,11.01,Expect a day of partly cloudy with rain,12.2,10.92,13.76,11.83,10.42,100.0,10.39
+245061662,Mont Saint-Michel,48.6359541,-1.511459954959514,2023-11-15,83,6.72,Expect a day of partly cloudy with rain,12.37,9.27,12.98,11.83,9.44,59.0,0.84
+245061662,Mont Saint-Michel,48.6359541,-1.511459954959514,2023-11-16,96,10.87,Expect a day of partly cloudy with rain,13.92,10,15.65,13.87,11.2,100.0,7.78
+245061662,Mont Saint-Michel,48.6359541,-1.511459954959514,2023-11-17,65,11.46,"The day will start with rain through the late morning hours, transitioning to partly cloudy",11.69,8.94,11.69,10.61,7.88,100.0,1.26
+245061662,Mont Saint-Michel,48.6359541,-1.511459954959514,2023-11-18,78,7.79,There will be partly cloudy today,11.36,7.91,12.09,10.59,9.38,0.0,0
+245061662,Mont Saint-Michel,48.6359541,-1.511459954959514,2023-11-19,75,7.46,Expect a day of partly cloudy with rain,14.29,10.17,14.29,13.73,9.67,42.0,0.29
+245061662,Mont Saint-Michel,48.6359541,-1.511459954959514,2023-11-20,84,10.03,"You can expect partly cloudy in the morning, with rain in the afternoon",11.23,10,11.59,10.6,9.95,100.0,1.52
+245319607,Saint-Malo,48.649518,-2.0260409,2023-11-13,87,11.92,Expect a day of partly cloudy with rain,16.2,12.24,16.54,16.15,11.94,100.0,2.35
+245319607,Saint-Malo,48.649518,-2.0260409,2023-11-14,86,12.81,Expect a day of partly cloudy with rain,13.21,11.76,13.99,12.83,11.24,100.0,8.07
+245319607,Saint-Malo,48.649518,-2.0260409,2023-11-15,79,8.5,Expect a day of partly cloudy with rain,12.63,10.28,13.25,12.01,10.38,45.0,0.39
+245319607,Saint-Malo,48.649518,-2.0260409,2023-11-16,84,13.13,Expect a day of partly cloudy with rain,15.6,10.51,15.6,15.41,11.48,100.0,10.55
+245319607,Saint-Malo,48.649518,-2.0260409,2023-11-17,61,13.68,"The day will start with rain through the late morning hours, transitioning to partly cloudy",12.14,10.15,12.14,11,9.1,100.0,0.5
+245319607,Saint-Malo,48.649518,-2.0260409,2023-11-18,81,9.74,There will be partly cloudy today,12.72,9.23,13.79,12.16,11.29,0.0,0
+245319607,Saint-Malo,48.649518,-2.0260409,2023-11-19,74,8.49,Expect a day of partly cloudy with rain,14.41,11.18,14.5,13.84,10.68,34.0,0.13
+245319607,Saint-Malo,48.649518,-2.0260409,2023-11-20,82,12.04,"You can expect partly cloudy in the morning, with rain in the afternoon",11.92,10.71,12.11,11.31,10.96,100.0,1.27
+244577445,Bayeux,49.2764624,-0.7024738,2023-11-13,90,11.75,Expect a day of partly cloudy with rain,15.68,11.3,15.68,15.65,11.14,100.0,6.14
+244577445,Bayeux,49.2764624,-0.7024738,2023-11-14,92,11.42,Expect a day of partly cloudy with rain,10.61,10.55,12.73,10.13,10.12,100.0,9.95
+244577445,Bayeux,49.2764624,-0.7024738,2023-11-15,76,8.25,"The day will start with clear sky through the late morning hours, transitioning to partly cloudy",12.57,8.81,12.83,11.87,8.46,0.0,0
+244577445,Bayeux,49.2764624,-0.7024738,2023-11-16,92,12.15,Expect a day of partly cloudy with rain,11.23,9.2,14.25,10.81,10,100.0,5.14
+244577445,Bayeux,49.2764624,-0.7024738,2023-11-17,63,11.28,Expect a day of partly cloudy with rain,11.16,7.22,11.16,9.98,5.27,37.0,0.29
+244577445,Bayeux,49.2764624,-0.7024738,2023-11-18,69,8.51,There will be partly cloudy today,11.17,8.51,11.17,10.14,9.88,0.0,0
+244577445,Bayeux,49.2764624,-0.7024738,2023-11-19,76,8.59,Expect a day of partly cloudy with rain,14.1,9.72,14.1,13.55,7.1,21.0,0.15
+244577445,Bayeux,49.2764624,-0.7024738,2023-11-20,85,9.71,"You can expect partly cloudy in the morning, with rain in the afternoon",10.96,9.96,11.16,10.33,6.53,100.0,1.24
+84845221,Le Havre,49.4938975,0.1079732,2023-11-13,89,14.31,Expect a day of partly cloudy with rain,15.65,11.74,15.79,15.59,12.34,100.0,8.59
+84845221,Le Havre,49.4938975,0.1079732,2023-11-14,94,13.04,"The day will start with partly cloudy through the late morning hours, transitioning to rain",12.29,12.29,13.22,12.03,12.17,100.0,9.69
+84845221,Le Havre,49.4938975,0.1079732,2023-11-15,76,10.83,"You can expect rain in the morning, with partly cloudy in the afternoon",12.49,11.32,12.73,11.78,10.67,100.0,4.44
+84845221,Le Havre,49.4938975,0.1079732,2023-11-16,91,15.28,Expect a day of partly cloudy with rain,11.4,10.67,14.42,10.97,11.98,100.0,6.18
+84845221,Le Havre,49.4938975,0.1079732,2023-11-17,65,16.38,"You can expect rain in the morning, with partly cloudy in the afternoon",11.15,10.52,11.46,10.02,9.93,100.0,1.05
+84845221,Le Havre,49.4938975,0.1079732,2023-11-18,69,11.09,There will be partly cloudy today,11.07,9.9,11.59,10.03,10,0.0,0
+84845221,Le Havre,49.4938975,0.1079732,2023-11-19,84,10.16,Expect a day of partly cloudy with rain,13.56,10.69,13.56,13.16,11.55,20.0,0.3
+84845221,Le Havre,49.4938975,0.1079732,2023-11-20,88,12.44,Expect a day of partly cloudy with rain,11.89,11.58,12.39,11.43,10.78,100.0,2.36
+84723446,Rouen,49.4404591,1.0939658,2023-11-13,86,10.91,Expect a day of partly cloudy with rain,16.16,10.64,16.34,16.08,11.18,100.0,5.17
+84723446,Rouen,49.4404591,1.0939658,2023-11-14,92,10.4,Expect a day of partly cloudy with rain,11.93,10.74,12.59,11.58,10.88,100.0,6.24
+84723446,Rouen,49.4404591,1.0939658,2023-11-15,77,8.41,Expect a day of partly cloudy with rain,12.44,8.81,12.66,11.75,7.8,28.999999999999996,0.38
+84723446,Rouen,49.4404591,1.0939658,2023-11-16,92,12.11,Expect a day of partly cloudy with rain,10.02,8.38,13.6,9.48,10.82,100.0,5.3
+84723446,Rouen,49.4404591,1.0939658,2023-11-17,71,12.02,Expect a day of partly cloudy with rain,10,6.08,10.92,6.58,5.2,97.0,0.66
+84723446,Rouen,49.4404591,1.0939658,2023-11-18,71,5.71,There will be partly cloudy today,10.09,6.3,10.09,9.01,5.68,0.0,0
+84723446,Rouen,49.4404591,1.0939658,2023-11-19,75,5.98,There will be partly cloudy today,14.54,8.65,14.54,14.01,7.55,0.0,0
+84723446,Rouen,49.4404591,1.0939658,2023-11-20,89,8.23,"You can expect partly cloudy in the morning, with rain in the afternoon",10.12,9.96,11.03,9.51,6.91,100.0,1.35
+83293737,Paris,48.8534951,2.3483915,2023-11-13,77,8.39,Expect a day of partly cloudy with rain,16.88,11.41,16.97,16.63,13.39,100.0,7.24
+83293737,Paris,48.8534951,2.3483915,2023-11-14,85,9.1,Expect a day of partly cloudy with rain,12.41,11.84,14.32,11.93,11.01,100.0,4.14
+83293737,Paris,48.8534951,2.3483915,2023-11-15,66,5.69,Expect a day of partly cloudy with rain,13.29,11.13,14.13,12.4,10.34,20.0,0.13
+83293737,Paris,48.8534951,2.3483915,2023-11-16,76,7.01,Expect a day of partly cloudy with rain,10.49,10.22,13.74,9.58,11.96,60.0,0.52
+83293737,Paris,48.8534951,2.3483915,2023-11-17,64,8.89,Expect a day of partly cloudy with rain,10.28,9.57,12.01,9.03,8.27,20.0,0.2
+83293737,Paris,48.8534951,2.3483915,2023-11-18,59,3.78,There will be partly cloudy today,10.35,7.75,10.58,8.98,7.24,0.0,0
+83293737,Paris,48.8534951,2.3483915,2023-11-19,83,4.04,There will be partly cloudy today,11.74,8.92,13.47,11.14,10.47,0.0,0
+83293737,Paris,48.8534951,2.3483915,2023-11-20,65,5.9,"You can expect partly cloudy in the morning, with rain in the afternoon",11.64,10.04,11.64,10.56,9.96,100.0,0.66
+84475595,Amiens,49.8941708,2.2956951,2023-11-13,86,11.66,Expect a day of partly cloudy with rain,15.81,9.99,16.26,15.69,10.7,100.0,7.81
+84475595,Amiens,49.8941708,2.2956951,2023-11-14,89,10.62,Expect a day of partly cloudy with rain,12.09,10.61,12.3,11.68,10.56,100.0,9.65
+84475595,Amiens,49.8941708,2.2956951,2023-11-15,79,8,Expect a day of partly cloudy with rain,11.67,7.93,12.14,10.96,6.03,100.0,1.88
+84475595,Amiens,49.8941708,2.2956951,2023-11-16,84,9.31,Expect a day of partly cloudy with rain,9.92,6.81,12.53,6.85,11.34,100.0,4.49
+84475595,Amiens,49.8941708,2.2956951,2023-11-17,81,14.15,Expect a day of partly cloudy with rain,9.25,7.79,10.61,5.46,6.88,100.0,2.07
+84475595,Amiens,49.8941708,2.2956951,2023-11-18,75,7.1,There will be partly cloudy today,9.58,5.85,9.58,6.85,4.16,0.0,0
+84475595,Amiens,49.8941708,2.2956951,2023-11-19,77,6.86,There will be partly cloudy today,13.71,7.74,13.71,13.15,9.44,0.0,0
+84475595,Amiens,49.8941708,2.2956951,2023-11-20,82,8.55,"You can expect partly cloudy in the morning, with rain in the afternoon",10.74,9.54,10.95,10.01,6.49,100.0,1.11
+87056687,Lille,50.6365654,3.0635282,2023-11-13,90,10.8,Expect a day of partly cloudy with rain,14.57,8.31,15.52,14.43,11.41,100.0,10.99
+87056687,Lille,50.6365654,3.0635282,2023-11-14,90,9.31,Expect a day of partly cloudy with rain,11.35,10.11,12,10.89,9.42,100.0,13.31
+87056687,Lille,50.6365654,3.0635282,2023-11-15,69,6.37,Expect a day of partly cloudy with clear spells,10.74,7.3,12.09,9.67,5.5,0.0,0
+87056687,Lille,50.6365654,3.0635282,2023-11-16,81,6.9,"You can expect partly cloudy in the morning, with rain in the afternoon",10.45,6.93,11.83,9.67,11.39,100.0,6.68
+87056687,Lille,50.6365654,3.0635282,2023-11-17,78,11.05,"You can expect rain in the morning, with partly cloudy in the afternoon",9.53,8.53,11.54,5.71,6.38,100.0,2.13
+87056687,Lille,50.6365654,3.0635282,2023-11-18,76,7.26,There will be partly cloudy today,8.85,7.02,9.33,5.99,5.49,0.0,0
+87056687,Lille,50.6365654,3.0635282,2023-11-19,76,7.38,There will be partly cloudy today,14.21,8.68,14.21,13.67,10.83,0.0,0
+87056687,Lille,50.6365654,3.0635282,2023-11-20,87,8.41,Expect a day of partly cloudy with rain,11.18,9.63,11.33,10.63,6.72,100.0,1.75
+104633806,Strasbourg,48.584614,7.7507127,2023-11-13,77,8.27,Expect a day of partly cloudy with rain,14.67,9.69,15.76,14.2,14.71,100.0,11.53
+104633806,Strasbourg,48.584614,7.7507127,2023-11-14,81,11.91,Expect a day of partly cloudy with rain,11.22,10.4,15.08,10.51,10.81,100.0,15.05
+104633806,Strasbourg,48.584614,7.7507127,2023-11-15,70,7.78,Expect a day of partly cloudy with rain,11.76,8.95,12.28,10.82,7.29,80.0,1.43
+104633806,Strasbourg,48.584614,7.7507127,2023-11-16,65,5.97,"You can expect partly cloudy in the morning, with rain in the afternoon",11,6.89,11.72,9.85,6.35,100.0,2.45
+104633806,Strasbourg,48.584614,7.7507127,2023-11-17,83,8.2,There will be rain today,7.02,7.02,11.3,2.92,5.04,100.0,2.78
+104633806,Strasbourg,48.584614,7.7507127,2023-11-18,72,6.5,"You can expect rain in the morning, with partly cloudy in the afternoon",9.63,6.28,9.63,9.63,4.97,48.0,0.78
+104633806,Strasbourg,48.584614,7.7507127,2023-11-19,62,3.96,"You can expect partly cloudy in the morning, with rain in the afternoon",10.74,5.42,10.74,9.49,8.25,20.0,0.15
+104633806,Strasbourg,48.584614,7.7507127,2023-11-20,69,5.39,Expect a day of partly cloudy with rain,11.67,8.56,11.67,10.69,5.89,100.0,0.52
+104591830,Château du Haut-Kœnigsbourg,48.2495226,7.3454923,2023-11-13,77,7.72,Expect a day of partly cloudy with rain,12.98,7.74,13.38,12.34,12.08,100.0,20.9
+104591830,Château du Haut-Kœnigsbourg,48.2495226,7.3454923,2023-11-14,92,11.17,Expect a day of partly cloudy with rain,8.17,7.92,11.88,8.17,4.86,100.0,24.82
+104591830,Château du Haut-Kœnigsbourg,48.2495226,7.3454923,2023-11-15,80,6.54,Expect a day of partly cloudy with rain,7.52,5.13,8.64,5.11,4.78,94.0,0.74
+104591830,Château du Haut-Kœnigsbourg,48.2495226,7.3454923,2023-11-16,68,3.2,"You can expect partly cloudy in the morning, with rain in the afternoon",8.56,4.02,8.66,7.47,5.49,100.0,6.17
+104591830,Château du Haut-Kœnigsbourg,48.2495226,7.3454923,2023-11-17,91,6.58,There will be rain today,3.44,3.44,9.01,-1.33,1.15,100.0,8.51
+104591830,Château du Haut-Kœnigsbourg,48.2495226,7.3454923,2023-11-18,70,2.9,Expect a day of partly cloudy with rain,7.31,3.14,7.31,7.31,1.83,80.0,0.44
+104591830,Château du Haut-Kœnigsbourg,48.2495226,7.3454923,2023-11-19,61,1.91,"You can expect partly cloudy in the morning, with rain in the afternoon",11.11,2.7,11.11,9.87,6.77,20.0,0.12
+104591830,Château du Haut-Kœnigsbourg,48.2495226,7.3454923,2023-11-20,78,4.27,Expect a day of partly cloudy with rain,8.33,4.92,8.33,6.18,2.45,95.0,1.1
+104915802,Colmar,48.0777517,7.3579641,2023-11-13,76,7.95,Expect a day of partly cloudy with rain,15.72,10.56,15.72,15.33,15.52,100.0,17.61
+104915802,Colmar,48.0777517,7.3579641,2023-11-14,93,10.25,Expect a day of partly cloudy with rain,11.12,10.61,15.08,10.72,10.33,100.0,24.48
+104915802,Colmar,48.0777517,7.3579641,2023-11-15,73,5.7,Expect a day of partly cloudy with rain,11.01,7.78,11.36,10.07,7.12,64.0,0.41
+104915802,Colmar,48.0777517,7.3579641,2023-11-16,67,3.97,"You can expect partly cloudy in the morning, with rain in the afternoon",11.03,6.3,11.07,9.94,7.39,100.0,4.62
+104915802,Colmar,48.0777517,7.3579641,2023-11-17,89,6.61,There will be rain today,6.17,6.17,11.95,2.15,4.94,100.0,9.43
+104915802,Colmar,48.0777517,7.3579641,2023-11-18,72,3.3,Expect a day of partly cloudy with rain,9.31,5.73,9.31,8.77,4.41,76.0,0.23
+104915802,Colmar,48.0777517,7.3579641,2023-11-19,60,2.39,There will be partly cloudy today,13.97,5.45,13.97,12.99,9.36,0.0,0
+104915802,Colmar,48.0777517,7.3579641,2023-11-20,77,3.69,Expect a day of partly cloudy with rain,10.86,7.41,10.86,10.01,5.25,100.0,0.85
+104719705,Eguisheim,48.0447968,7.3079618,2023-11-13,76,8.27,Expect a day of partly cloudy with rain,15.39,10.28,15.39,14.97,15.18,100.0,17.99
+104719705,Eguisheim,48.0447968,7.3079618,2023-11-14,93,10.14,Expect a day of partly cloudy with rain,10.92,10.37,14.88,10.5,10.07,100.0,25.85
+104719705,Eguisheim,48.0447968,7.3079618,2023-11-15,72,5.91,Expect a day of partly cloudy with rain,10.8,7.52,11.03,9.82,6.55,76.0,0.61
+104719705,Eguisheim,48.0447968,7.3079618,2023-11-16,67,3.73,"You can expect partly cloudy in the morning, with rain in the afternoon",10.67,6,10.72,9.54,7.09,100.0,1.3
+104719705,Eguisheim,48.0447968,7.3079618,2023-11-17,90,6.86,There will be rain today,5.76,5.76,11.67,1.54,4.54,100.0,9.73
+104719705,Eguisheim,48.0447968,7.3079618,2023-11-18,74,3.4,Expect a day of partly cloudy with rain,8.76,5.43,8.76,8.15,4.15,81.0,0.1
+104719705,Eguisheim,48.0447968,7.3079618,2023-11-19,60,2.34,There will be partly cloudy today,13.81,5.19,13.81,12.81,9.1,0.0,0
+104719705,Eguisheim,48.0447968,7.3079618,2023-11-20,78,3.93,Expect a day of partly cloudy with rain,10.47,6.9,10.47,9.61,4.53,100.0,0.87
+78684513,Besançon,47.2380222,6.0243622,2023-11-13,78,8.9,Expect a day of partly cloudy with rain,15.19,11.51,15.19,14.8,14.63,100.0,12.99
+78684513,Besançon,47.2380222,6.0243622,2023-11-14,99,8.71,There will be rain today,11.97,9.77,14.58,11.81,7.13,100.0,45.42
+78684513,Besançon,47.2380222,6.0243622,2023-11-15,92,5.66,Expect a day of partly cloudy with rain,9.31,7.93,10.3,7.55,7.52,100.0,2.99
+78684513,Besançon,47.2380222,6.0243622,2023-11-16,76,6.64,"You can expect partly cloudy in the morning, with rain in the afternoon",9.83,5.71,10.76,9.83,10.32,100.0,7.93
+78684513,Besançon,47.2380222,6.0243622,2023-11-17,90,7.63,There will be rain today,6.68,6.5,10.34,2.47,4.19,100.0,2.7
+78684513,Besançon,47.2380222,6.0243622,2023-11-18,76,3.09,"There will be rain until morning, then partly cloudy",9.28,5.26,9.28,7.59,5.26,14.000000000000002,0
+78684513,Besançon,47.2380222,6.0243622,2023-11-19,65,2.73,There will be partly cloudy today,12.03,4.51,12.03,10.99,6.33,0.0,0
+78684513,Besançon,47.2380222,6.0243622,2023-11-20,95,5.12,"The day will start with partly cloudy through the late morning hours, transitioning to rain",9.14,7.08,9.14,6.92,3.89,100.0,7.53
+80102208,Dijon,47.3215806,5.0414701,2023-11-13,87,9.22,Expect a day of partly cloudy with rain,13.38,11.21,14.8,13.05,14.62,100.0,7.12
+80102208,Dijon,47.3215806,5.0414701,2023-11-14,96,10.52,Expect a day of partly cloudy with rain,11.31,10.11,14.88,11,9.4,100.0,19.93
+80102208,Dijon,47.3215806,5.0414701,2023-11-15,78,6.85,There will be partly cloudy today,10.72,7.6,10.72,9.88,6.83,0.0,0
+80102208,Dijon,47.3215806,5.0414701,2023-11-16,84,6.75,Expect a day of partly cloudy with rain,8.05,6.46,10.21,6.06,9.71,100.0,7.15
+80102208,Dijon,47.3215806,5.0414701,2023-11-17,75,9.64,"The day will start with rain through the late morning hours, transitioning to partly cloudy",8.58,6.59,9.94,4.41,3.34,100.0,1.76
+80102208,Dijon,47.3215806,5.0414701,2023-11-18,73,2.36,There will be partly cloudy today,8.99,4.61,8.99,8.24,5.62,0.0,0
+80102208,Dijon,47.3215806,5.0414701,2023-11-19,58,2.63,There will be partly cloudy today,12.75,4.34,12.75,11.6,8.13,0.0,0
+80102208,Dijon,47.3215806,5.0414701,2023-11-20,83,5.1,"The day will start with partly cloudy through the late morning hours, transitioning to rain",10.95,7.31,10.95,10.27,5.46,100.0,3.68
+75756063,Annecy,45.8992348,6.1288847,2023-11-13,89,3.19,Expect a day of partly cloudy with rain,13.87,8.23,13.87,13.64,11.73,100.0,14.39
+75756063,Annecy,45.8992348,6.1288847,2023-11-14,94,4.43,Expect a day of partly cloudy with rain,13.8,9.68,14.9,13.69,9.24,100.0,25.57
+75756063,Annecy,45.8992348,6.1288847,2023-11-15,81,1.58,Expect a day of partly cloudy with rain,11.25,5.35,11.51,10.55,5.35,100.0,0.62
+75756063,Annecy,45.8992348,6.1288847,2023-11-16,77,2.89,Expect a day of partly cloudy with rain,9.26,5.03,12.1,9.26,7.99,100.0,9.14
+75756063,Annecy,45.8992348,6.1288847,2023-11-17,90,2.35,There will be rain today,6.74,5.49,9.21,5.12,5.67,100.0,3.73
+75756063,Annecy,45.8992348,6.1288847,2023-11-18,81,2.75,"There will be rain until morning, then partly cloudy",8.39,3.59,8.39,6.74,4.45,100.0,0.21
+75756063,Annecy,45.8992348,6.1288847,2023-11-19,60,1.63,Expect a day of partly cloudy with clear spells,14.46,3.94,14.46,13.53,8.06,0.0,0
+75756063,Annecy,45.8992348,6.1288847,2023-11-20,83,1.86,"You can expect partly cloudy in the morning, with rain in the afternoon",11.02,7.23,11.02,10.34,7.42,100.0,5.26
+75962893,Grenoble,45.1875602,5.7357819,2023-11-13,78,1.96,Expect a day of partly cloudy with rain,18.32,11.11,18.32,18.24,14.33,100.0,2.66
+75962893,Grenoble,45.1875602,5.7357819,2023-11-14,77,2.72,Expect a day of partly cloudy with rain,20.23,11.68,20.23,20.32,11.31,100.0,6.83
+75962893,Grenoble,45.1875602,5.7357819,2023-11-15,77,3.2,Expect a day of partly cloudy with rain,12.66,6.83,12.99,11.99,6.83,100.0,0.1
+75962893,Grenoble,45.1875602,5.7357819,2023-11-16,50,2.02,Expect a day of partly cloudy with rain,14.16,5.94,15.16,12.94,11.41,100.0,9.16
+75962893,Grenoble,45.1875602,5.7357819,2023-11-17,78,2.72,There will be rain today,9.35,6.69,12.03,7.91,5.11,100.0,4.64
+75962893,Grenoble,45.1875602,5.7357819,2023-11-18,72,3.41,"There will be rain until morning, then partly cloudy",10.05,4.51,10.05,8.99,5.92,2.0,0
+75962893,Grenoble,45.1875602,5.7357819,2023-11-19,55,1.56,Expect a day of partly cloudy with clear spells,17.35,5.66,17.35,16.58,9.78,0.0,0
+75962893,Grenoble,45.1875602,5.7357819,2023-11-20,68,2.99,"You can expect partly cloudy in the morning, with rain in the afternoon",15.21,8.31,15.21,14.56,7.4,100.0,1.86
+79325170,Lyon,45.7578137,4.8320114,2023-11-13,82,3.68,Expect a day of partly cloudy with rain,14.3,11.68,15.87,13.93,14.27,100.0,1.49
+79325170,Lyon,45.7578137,4.8320114,2023-11-14,76,6.38,Expect a day of partly cloudy with rain,16.96,12.33,20.55,16.7,11.58,100.0,1.8
+79325170,Lyon,45.7578137,4.8320114,2023-11-15,56,3.56,Expect a day of partly cloudy with clear spells,13.93,9.05,14.41,12.84,8.61,0.0,0
+79325170,Lyon,45.7578137,4.8320114,2023-11-16,63,3.59,"You can expect partly cloudy in the morning, with rain in the afternoon",10.92,7.89,12.42,9.71,10.37,100.0,3.38
+79325170,Lyon,45.7578137,4.8320114,2023-11-17,65,4.67,Expect a day of partly cloudy with rain,10.12,7.73,10.36,8.88,6.12,100.0,1.08
+79325170,Lyon,45.7578137,4.8320114,2023-11-18,65,3.6,"There will be rain until morning, then partly cloudy",9.68,5.28,9.88,7.8,7.3,0.0,0
+79325170,Lyon,45.7578137,4.8320114,2023-11-19,48,1.33,Expect a day of partly cloudy with clear spells,13.46,5.98,13.46,12.11,9.22,0.0,0
+79325170,Lyon,45.7578137,4.8320114,2023-11-20,80,1.75,"You can expect partly cloudy in the morning, with rain in the afternoon",11.08,8.22,11.32,10.33,7.64,100.0,1.36
+70154125,Gorges du Verdon,43.7496562,6.3285616,2023-11-13,63,6.1,Expect a day of partly cloudy with clear spells,14.05,4.89,15.14,13.16,7.96,0.0,0
+70154125,Gorges du Verdon,43.7496562,6.3285616,2023-11-14,60,8.84,There will be partly cloudy today,16.74,8.57,16.74,16.04,11.03,0.0,0
+70154125,Gorges du Verdon,43.7496562,6.3285616,2023-11-15,59,8.07,Expect a day of partly cloudy with clear spells,9.6,4.54,10.92,7.16,3.56,0.0,0
+70154125,Gorges du Verdon,43.7496562,6.3285616,2023-11-16,26,3.45,Expect a day of partly cloudy with rain,13.19,4.68,13.45,11.24,5.56,38.0,0.18
+70154125,Gorges du Verdon,43.7496562,6.3285616,2023-11-17,53,8.85,Expect a day of partly cloudy with rain,9.02,0.63,9.02,5.36,-3.27,100.0,0.28
+70154125,Gorges du Verdon,43.7496562,6.3285616,2023-11-18,24,3.06,There will be partly cloudy today,12.46,0.1,12.46,10.39,3.98,0.0,0
+70154125,Gorges du Verdon,43.7496562,6.3285616,2023-11-19,32,2.5,Expect a day of partly cloudy with clear spells,12.23,3.77,12.23,10.34,3.72,0.0,0
+70154125,Gorges du Verdon,43.7496562,6.3285616,2023-11-20,48,6.2,There will be partly cloudy today,14.2,5.28,14.2,12.93,1.17,0.0,0
+70195412,Bormes-les-Mimosas,43.1506968,6.3419285,2023-11-13,55,9.09,Expect a day of partly cloudy with clear spells,19.18,13.7,19.98,18.59,15.69,0.0,0
+70195412,Bormes-les-Mimosas,43.1506968,6.3419285,2023-11-14,62,11.48,Expect a day of partly cloudy with clear spells,20.21,15.25,20.22,19.91,18.1,0.0,0
+70195412,Bormes-les-Mimosas,43.1506968,6.3419285,2023-11-15,43,12.72,Expect a day of partly cloudy with clear spells,16.65,12.08,17.88,15.49,10.88,0.0,0
+70195412,Bormes-les-Mimosas,43.1506968,6.3419285,2023-11-16,37,3.41,There will be partly cloudy today,15.63,10.28,16.29,14.21,12.4,0.0,0
+70195412,Bormes-les-Mimosas,43.1506968,6.3419285,2023-11-17,38,13.13,Expect a day of partly cloudy with clear spells,15.14,9.9,15.14,13.7,5.61,0.0,0
+70195412,Bormes-les-Mimosas,43.1506968,6.3419285,2023-11-18,36,8.92,There will be partly cloudy today,14.96,7.69,14.96,13.45,9.5,0.0,0
+70195412,Bormes-les-Mimosas,43.1506968,6.3419285,2023-11-19,35,2.96,"There will be partly cloudy until morning, then clearing",15.31,8.95,15.31,13.81,9.83,0.0,0
+70195412,Bormes-les-Mimosas,43.1506968,6.3419285,2023-11-20,50,10.74,"There will be clear sky until morning, then partly cloudy",17.79,10.48,17.79,16.93,12.29,0.0,0
+70883649,Cassis,43.2140359,5.5396318,2023-11-13,69,7.56,There will be partly cloudy today,16.89,13.93,18.02,16.44,15.61,0.0,0
+70883649,Cassis,43.2140359,5.5396318,2023-11-14,65,11.94,There will be partly cloudy today,18.57,15.28,18.66,18.18,17.72,0.0,0
+70883649,Cassis,43.2140359,5.5396318,2023-11-15,51,14.85,Expect a day of partly cloudy with clear spells,15.4,12.66,17.67,14.33,11.63,0.0,0
+70883649,Cassis,43.2140359,5.5396318,2023-11-16,43,5.53,There will be partly cloudy today,15,11.55,15.66,13.68,13.47,0.0,0
+70883649,Cassis,43.2140359,5.5396318,2023-11-17,51,17.75,Expect a day of partly cloudy with rain,14.07,10.67,14.25,12.86,9.33,30.0,0.19
+70883649,Cassis,43.2140359,5.5396318,2023-11-18,40,13.66,"There will be clear sky until morning, then partly cloudy",13.82,8.56,15.22,12.3,12.19,0.0,0
+70883649,Cassis,43.2140359,5.5396318,2023-11-19,47,2.16,"The day will start with partly cloudy through the late morning hours, transitioning to clearing",14.79,12.29,14.79,13.55,12.51,0.0,0
+70883649,Cassis,43.2140359,5.5396318,2023-11-20,58,13.26,"There will be clear sky until morning, then partly cloudy",14.93,12.41,15.91,13.99,12.66,0.0,0
+70805526,Marseille,43.2961743,5.3699525,2023-11-13,69,7.13,Expect a day of partly cloudy with clear spells,17.44,14.73,18.99,17.04,16.33,0.0,0
+70805526,Marseille,43.2961743,5.3699525,2023-11-14,65,10.69,There will be partly cloudy today,18.82,16.1,19.64,18.45,18.57,0.0,0
+70805526,Marseille,43.2961743,5.3699525,2023-11-15,52,14.31,Expect a day of partly cloudy with clear spells,16.19,13.71,18.84,15.22,12.78,0.0,0
+70805526,Marseille,43.2961743,5.3699525,2023-11-16,46,6.48,"You can expect partly cloudy in the morning, with rain in the afternoon",14.99,12.28,16.24,13.75,14.42,28.000000000000004,0.1
+70805526,Marseille,43.2961743,5.3699525,2023-11-17,49,17.05,Expect a day of partly cloudy with rain,15.18,11.46,15.52,14.03,10.23,62.0,0.12
+70805526,Marseille,43.2961743,5.3699525,2023-11-18,46,15.91,Expect a day of partly cloudy with clear spells,13.65,9.63,15.56,12.27,13.22,0.0,0
+70805526,Marseille,43.2961743,5.3699525,2023-11-19,49,2.59,"The day will start with partly cloudy through the late morning hours, transitioning to clearing",15.46,13.4,15.54,14.34,13.98,0.0,0
+70805526,Marseille,43.2961743,5.3699525,2023-11-20,57,12.49,"There will be clear sky until morning, then partly cloudy",15.3,13.16,17.05,14.37,13.81,0.0,0
+70350081,Aix-en-Provence,43.5298424,5.4474738,2023-11-13,62,3.12,There will be partly cloudy today,17.25,11.45,18.88,16.65,14.05,0.0,0
+70350081,Aix-en-Provence,43.5298424,5.4474738,2023-11-14,59,6.66,There will be partly cloudy today,19.27,13.52,19.95,18.79,17.12,0.0,0
+70350081,Aix-en-Provence,43.5298424,5.4474738,2023-11-15,49,10.29,Expect a day of partly cloudy with clear spells,14.94,10.51,17.16,13.77,9.44,0.0,0
+70350081,Aix-en-Provence,43.5298424,5.4474738,2023-11-16,39,2.38,"You can expect partly cloudy in the morning, with rain in the afternoon",14.22,9.36,15.77,12.72,11.87,75.0,0.38
+70350081,Aix-en-Provence,43.5298424,5.4474738,2023-11-17,43,10.56,Expect a day of partly cloudy with rain,13.68,9.12,13.68,12.23,5.32,100.0,1.27
+70350081,Aix-en-Provence,43.5298424,5.4474738,2023-11-18,39,6.15,Expect a day of partly cloudy with clear spells,13.38,6.21,14.45,11.79,9.21,0.0,0
+70350081,Aix-en-Provence,43.5298424,5.4474738,2023-11-19,34,2.2,"The day will start with partly cloudy through the late morning hours, transitioning to clearing",15.44,8.69,15.44,13.93,10.5,0.0,0
+70350081,Aix-en-Provence,43.5298424,5.4474738,2023-11-20,49,9.39,"There will be clear sky until morning, then partly cloudy",15.39,9.98,15.43,14.26,10.91,0.0,0
+70472090,Avignon,43.9492493,4.8059012,2023-11-13,62,1.85,Expect a day of partly cloudy with clear spells,18.91,11.49,18.91,18.48,14.3,0.0,0
+70472090,Avignon,43.9492493,4.8059012,2023-11-14,63,7.44,There will be partly cloudy today,19.93,13.96,21.82,19.62,18.26,0.0,0
+70472090,Avignon,43.9492493,4.8059012,2023-11-15,51,9.75,Expect a day of partly cloudy with clear spells,15.97,11.72,17.1,14.95,10.62,0.0,0
+70472090,Avignon,43.9492493,4.8059012,2023-11-16,53,7.24,"You can expect partly cloudy in the morning, with rain in the afternoon",13.88,8.27,15.78,12.71,10.86,99.0,0.31
+70472090,Avignon,43.9492493,4.8059012,2023-11-17,41,11.28,Expect a day of partly cloudy with rain,15.27,9.4,15.27,13.92,5.42,74.0,0
+70472090,Avignon,43.9492493,4.8059012,2023-11-18,58,12.98,"There will be clear sky until morning, then partly cloudy",11.79,8.37,11.8,10.54,6.45,0.0,0
+70472090,Avignon,43.9492493,4.8059012,2023-11-19,45,2.52,Expect a day of partly cloudy with clear spells,14.69,6,14.92,13.39,9.7,0.0,0
+70472090,Avignon,43.9492493,4.8059012,2023-11-20,54,8.09,There will be partly cloudy today,16,8.06,16,15.07,9.41,0.0,0
+74412901,Uzès,44.0121279,4.4196718,2023-11-13,66,2.41,There will be partly cloudy today,17.8,11.87,18.38,17.36,14.08,0.0,0
+74412901,Uzès,44.0121279,4.4196718,2023-11-14,69,5.14,There will be partly cloudy today,19.98,14.44,21.04,19.84,15.9,0.0,0
+74412901,Uzès,44.0121279,4.4196718,2023-11-15,48,7.24,Expect a day of partly cloudy with clear spells,15.67,8.75,16.51,14.55,6.99,0.0,0
+74412901,Uzès,44.0121279,4.4196718,2023-11-16,50,2.85,Expect a day of partly cloudy with rain,13.86,7.29,14.72,12.61,10.34,39.0,0.35
+74412901,Uzès,44.0121279,4.4196718,2023-11-17,36,5.97,Expect a day of partly cloudy with rain,15.37,7.61,15.37,13.9,4.33,20.0,0.1
+74412901,Uzès,44.0121279,4.4196718,2023-11-18,50,8.33,"There will be clear sky until morning, then partly cloudy",13.04,6.87,13.04,11.71,4.58,0.0,0
+74412901,Uzès,44.0121279,4.4196718,2023-11-19,48,2.9,Expect a day of partly cloudy with clear spells,14.42,5.78,14.42,13.17,9.05,0.0,0
+74412901,Uzès,44.0121279,4.4196718,2023-11-20,55,4.52,There will be partly cloudy today,16.69,8.28,16.69,15.85,7.82,0.0,0
+70627983,Nîmes,43.8374249,4.3600687,2023-11-13,62,3.69,Expect a day of partly cloudy with clear spells,18.42,12.56,19.45,17.94,15,0.0,0
+70627983,Nîmes,43.8374249,4.3600687,2023-11-14,63,6.43,There will be partly cloudy today,20.66,15.02,22.03,20.43,17.47,0.0,0
+70627983,Nîmes,43.8374249,4.3600687,2023-11-15,41,7.62,Expect a day of partly cloudy with clear spells,16.88,10.62,17.71,15.69,9.43,0.0,0
+70627983,Nîmes,43.8374249,4.3600687,2023-11-16,42,2.84,Expect a day of partly cloudy with rain,14.53,8.92,15.66,13.14,11.44,85.0,0.26
+70627983,Nîmes,43.8374249,4.3600687,2023-11-17,33,5.96,Expect a day of partly cloudy with rain,15.6,9.18,15.6,14.08,6.21,44.0,0
+70627983,Nîmes,43.8374249,4.3600687,2023-11-18,42,7.19,"There will be clear sky until morning, then partly cloudy",14.29,7.84,14.29,12.87,6.84,0.0,0
+70627983,Nîmes,43.8374249,4.3600687,2023-11-19,45,3.12,Expect a day of partly cloudy with clear spells,15.05,7.04,15.5,13.79,9.37,0.0,0
+70627983,Nîmes,43.8374249,4.3600687,2023-11-20,51,4.52,There will be partly cloudy today,16.66,9.1,17.61,15.71,10.32,0.0,0
+70766008,Aigues-Mortes,43.5661521,4.19154,2023-11-13,68,7.22,Expect a day of partly cloudy with clear spells,17.47,14.94,17.97,17.05,16.41,0.0,0
+70766008,Aigues-Mortes,43.5661521,4.19154,2023-11-14,73,9.63,There will be partly cloudy today,18.47,16.23,19.51,18.28,17.83,0.0,0
+70766008,Aigues-Mortes,43.5661521,4.19154,2023-11-15,48,10.52,Expect a day of partly cloudy with clear spells,17.09,12.8,18.41,16.11,11.81,0.0,0
+70766008,Aigues-Mortes,43.5661521,4.19154,2023-11-16,53,4.16,"You can expect partly cloudy in the morning, with rain in the afternoon",14.42,11.23,15.55,13.3,14.77,80.0,0.13
+70766008,Aigues-Mortes,43.5661521,4.19154,2023-11-17,46,10.75,Expect a day of partly cloudy with rain,15.55,11.29,15.66,14.36,9.94,100.0,0.53
+70766008,Aigues-Mortes,43.5661521,4.19154,2023-11-18,37,6.48,There will be partly cloudy today,15.03,9.04,15.03,13.55,9.41,0.0,0
+70766008,Aigues-Mortes,43.5661521,4.19154,2023-11-19,47,4.43,"The day will start with partly cloudy through the late morning hours, transitioning to clearing",14.94,9.11,15.36,13.72,11.87,0.0,0
+70766008,Aigues-Mortes,43.5661521,4.19154,2023-11-20,55,8.56,"There will be clear sky until morning, then partly cloudy",16.18,11.39,18.43,15.29,12.77,0.0,0
+70745512,Saintes-Maries-de-la-Mer,43.4515922,4.4277202,2023-11-13,70,8.13,There will be partly cloudy today,17.3,15.31,17.9,16.91,16.08,0.0,0
+70745512,Saintes-Maries-de-la-Mer,43.4515922,4.4277202,2023-11-14,76,10.72,There will be partly cloudy today,18.03,16.51,19.53,17.87,17.66,0.0,0
+70745512,Saintes-Maries-de-la-Mer,43.4515922,4.4277202,2023-11-15,53,11.25,Expect a day of partly cloudy with clear spells,16.64,13.16,17.71,15.74,12.2,0.0,0
+70745512,Saintes-Maries-de-la-Mer,43.4515922,4.4277202,2023-11-16,52,6.43,"You can expect partly cloudy in the morning, with rain in the afternoon",14.13,11.72,15.74,12.96,15.25,40.0,0.14
+70745512,Saintes-Maries-de-la-Mer,43.4515922,4.4277202,2023-11-17,53,11.34,Expect a day of partly cloudy with rain,15.79,11.62,16.06,14.81,10.33,100.0,0.8
+70745512,Saintes-Maries-de-la-Mer,43.4515922,4.4277202,2023-11-18,46,10.03,There will be partly cloudy today,14.74,9.83,14.74,13.47,10.9,0.0,0
+70745512,Saintes-Maries-de-la-Mer,43.4515922,4.4277202,2023-11-19,54,6.73,"The day will start with partly cloudy through the late morning hours, transitioning to clearing",14.79,9.51,15.42,13.73,12.78,0.0,0
+70745512,Saintes-Maries-de-la-Mer,43.4515922,4.4277202,2023-11-20,61,7.35,"There will be clear sky until morning, then partly cloudy",15.73,12.07,17.81,14.95,12.51,0.0,0
+72068913,Collioure,42.52505,3.0831554,2023-11-13,53,2.14,There will be partly cloudy today,22.42,15.07,22.42,22.1,17.36,0.0,0
+72068913,Collioure,42.52505,3.0831554,2023-11-14,46,9.96,Expect a day of partly cloudy with clear spells,22.39,15.87,23.64,21.89,17.89,0.0,0
+72068913,Collioure,42.52505,3.0831554,2023-11-15,54,9.49,Expect a day of partly cloudy with clear spells,17.53,13.44,19.25,16.75,12.67,0.0,0
+72068913,Collioure,42.52505,3.0831554,2023-11-16,56,1.76,There will be partly cloudy today,18.72,12.88,20.76,18.11,15.26,0.0,0
+72068913,Collioure,42.52505,3.0831554,2023-11-17,60,10.03,There will be partly cloudy today,16.28,11.75,16.28,15.53,10.78,0.0,0
+72068913,Collioure,42.52505,3.0831554,2023-11-18,24,3.93,There will be partly cloudy today,19.63,9.71,19.63,18.28,11.5,0.0,0
+72068913,Collioure,42.52505,3.0831554,2023-11-19,54,2.43,"There will be partly cloudy until morning, then clearing",18.19,10.9,18.19,17.47,11.25,0.0,0
+72068913,Collioure,42.52505,3.0831554,2023-11-20,41,10.71,Expect a day of partly cloudy with clear spells,20.69,11.4,20.69,19.89,13.65,0.0,0
+72295757,Carcassonne,43.2130358,2.3491069,2023-11-13,42,2.06,Expect a day of partly cloudy with clear spells,21.08,12.94,22.88,20.34,15.65,0.0,0
+72295757,Carcassonne,43.2130358,2.3491069,2023-11-14,54,8.53,"You can expect partly cloudy in the morning, with rain in the afternoon",21.93,14.87,23.5,21.59,15.43,92.0,0.34
+72295757,Carcassonne,43.2130358,2.3491069,2023-11-15,70,8,There will be partly cloudy today,15.04,10.65,16.36,14.43,10.02,40.0,0
+72295757,Carcassonne,43.2130358,2.3491069,2023-11-16,56,2.69,"You can expect partly cloudy in the morning, with rain in the afternoon",15.18,10.1,18.54,14.22,13.66,100.0,0.15
+72295757,Carcassonne,43.2130358,2.3491069,2023-11-17,69,9.99,Expect a day of partly cloudy with rain,13.32,9.01,14.65,12.51,6.83,100.0,1.33
+72295757,Carcassonne,43.2130358,2.3491069,2023-11-18,41,4.07,There will be partly cloudy today,13.85,6.5,13.85,12.36,8.99,0.0,0
+72295757,Carcassonne,43.2130358,2.3491069,2023-11-19,57,2.86,"There will be partly cloudy until morning, then clearing",16.61,8.44,16.61,15.81,10.36,0.0,0
+72295757,Carcassonne,43.2130358,2.3491069,2023-11-20,55,10.23,Expect a day of partly cloudy with rain,15.69,9.92,15.69,14.75,10.86,100.0,0.57
+71928040,Ariège,42.9927428,1.6124975,2023-11-13,43,2.69,There will be partly cloudy today,21.63,12.14,22.23,20.97,14.23,0.0,0
+71928040,Ariège,42.9927428,1.6124975,2023-11-14,47,4.14,Expect a day of partly cloudy with rain,22.35,13.34,22.55,21.87,13.08,100.0,2.12
+71928040,Ariège,42.9927428,1.6124975,2023-11-15,66,3.07,There will be partly cloudy today,13.72,9.26,15.03,12.87,8.65,80.0,0
+71928040,Ariège,42.9927428,1.6124975,2023-11-16,50,2.29,Expect a day of partly cloudy with rain,17.19,9.7,19.35,16.27,13.16,20.0,0.15
+71928040,Ariège,42.9927428,1.6124975,2023-11-17,89,3.53,Expect a day of partly cloudy with rain,10.77,6.64,12.46,10.23,5.83,100.0,3.46
+71928040,Ariège,42.9927428,1.6124975,2023-11-18,38,2.24,There will be partly cloudy today,16.24,5.91,16.24,14.91,11.11,0.0,0
+71928040,Ariège,42.9927428,1.6124975,2023-11-19,49,2.18,"There will be partly cloudy until morning, then clearing",19.44,11.94,19.44,18.72,11.44,0.0,0
+71928040,Ariège,42.9927428,1.6124975,2023-11-20,55,4.21,Expect a day of partly cloudy with rain,15.63,9.91,15.63,14.68,7.92,100.0,2.25
+73010739,Toulouse,43.6044622,1.4442469,2023-11-13,43,2.94,Expect a day of partly cloudy with clear spells,19.31,12.53,21.46,18.42,17.14,0.0,0
+73010739,Toulouse,43.6044622,1.4442469,2023-11-14,51,6.95,"You can expect partly cloudy in the morning, with rain in the afternoon",21.09,14.79,22.82,20.59,15,86.0,0.6
+73010739,Toulouse,43.6044622,1.4442469,2023-11-15,68,6.1,There will be partly cloudy today,15.21,11.41,16.06,14.56,10.84,68.0,0
+73010739,Toulouse,43.6044622,1.4442469,2023-11-16,56,4.83,Expect a day of partly cloudy with rain,15.85,10.59,16.95,14.95,13.89,100.0,2.66
+73010739,Toulouse,43.6044622,1.4442469,2023-11-17,58,7.38,"The day will start with rain through the late morning hours, transitioning to partly cloudy",13.6,9.42,13.94,12.53,8.85,100.0,0.69
+73010739,Toulouse,43.6044622,1.4442469,2023-11-18,45,1.84,There will be partly cloudy today,12.28,6.97,13.16,10.74,9.51,0.0,0
+73010739,Toulouse,43.6044622,1.4442469,2023-11-19,42,1.93,Expect a day of partly cloudy with clear spells,16.37,8.96,17.12,15.16,11.09,0.0,0
+73010739,Toulouse,43.6044622,1.4442469,2023-11-20,53,6.29,"You can expect partly cloudy in the morning, with rain in the afternoon",15.39,9.76,15.39,14.37,9.79,100.0,0.48
+73471474,Montauban,44.0175835,1.3549991,2023-11-13,56,3.94,There will be partly cloudy today,17.6,11.83,19.75,16.88,16.9,0.0,0
+73471474,Montauban,44.0175835,1.3549991,2023-11-14,60,8.8,Expect a day of partly cloudy with rain,20.1,13.82,21.78,19.73,14.17,100.0,1.02
+73471474,Montauban,44.0175835,1.3549991,2023-11-15,75,4.61,There will be partly cloudy today,14.67,10.14,15.64,14.15,9.51,78.0,0
+73471474,Montauban,44.0175835,1.3549991,2023-11-16,70,4.94,Expect a day of partly cloudy with rain,13.57,9.81,14.5,12.81,14.49,100.0,2.87
+73471474,Montauban,44.0175835,1.3549991,2023-11-17,67,6.4,"The day will start with rain through the late morning hours, transitioning to partly cloudy",12.68,8.17,12.85,11.75,7.2,100.0,0.62
+73471474,Montauban,44.0175835,1.3549991,2023-11-18,54,1.86,There will be partly cloudy today,11.36,5.58,12.17,9.96,7.4,0.0,0
+73471474,Montauban,44.0175835,1.3549991,2023-11-19,51,1.63,Expect a day of partly cloudy with clear spells,15.3,7.95,16,14.22,10.19,0.0,0
+73471474,Montauban,44.0175835,1.3549991,2023-11-20,62,5.01,"You can expect partly cloudy in the morning, with rain in the afternoon",14.22,8.64,14.22,13.32,6.56,70.0,0.32
+250442744,Biarritz,43.4832523,-1.5592776,2023-11-13,73,4.87,Expect a day of partly cloudy with rain,19.9,15.3,20.4,19.85,17.88,20.0,0.18
+250442744,Biarritz,43.4832523,-1.5592776,2023-11-14,67,8.47,"You can expect partly cloudy in the morning, with rain in the afternoon",20.06,15.78,20.37,19.87,15.75,100.0,3.76
+250442744,Biarritz,43.4832523,-1.5592776,2023-11-15,76,4.13,There will be partly cloudy today,15.66,13.44,15.86,15.27,12.85,77.0,0
+250442744,Biarritz,43.4832523,-1.5592776,2023-11-16,70,6.13,"You can expect partly cloudy in the morning, with rain in the afternoon",18.51,13.35,18.89,18.24,14.19,100.0,0.99
+250442744,Biarritz,43.4832523,-1.5592776,2023-11-17,66,7.12,"The day will start with rain through the late morning hours, transitioning to partly cloudy",14.56,11.22,14.61,13.79,10.56,100.0,1.22
+250442744,Biarritz,43.4832523,-1.5592776,2023-11-18,55,4.17,"You can expect partly cloudy in the morning, with clearing in the afternoon",15.26,10.04,15.67,14.28,11.71,0.0,0
+250442744,Biarritz,43.4832523,-1.5592776,2023-11-19,66,2.74,"You can expect clear sky in the morning, with partly cloudy in the afternoon",16.86,12.95,16.86,16.32,12.92,0.0,0
+250442744,Biarritz,43.4832523,-1.5592776,2023-11-20,91,8.57,"You can expect partly cloudy in the morning, with rain in the afternoon",14.96,13.11,14.99,14.89,12.86,100.0,1.14
+250414078,Bayonne,43.4945144,-1.4736657,2023-11-13,70,3.86,Expect a day of partly cloudy with rain,20.61,14.5,20.84,20.55,17.69,20.0,0.12
+250414078,Bayonne,43.4945144,-1.4736657,2023-11-14,65,7.3,"You can expect partly cloudy in the morning, with rain in the afternoon",20.57,15.25,21.06,20.38,15.36,100.0,3.6
+250414078,Bayonne,43.4945144,-1.4736657,2023-11-15,77,3.32,There will be partly cloudy today,15.75,12.67,16.05,15.39,12.1,80.0,0
+250414078,Bayonne,43.4945144,-1.4736657,2023-11-16,70,5.24,"You can expect partly cloudy in the morning, with rain in the afternoon",18.78,12.63,19.28,18.54,13.86,100.0,0.93
+250414078,Bayonne,43.4945144,-1.4736657,2023-11-17,69,5.94,"The day will start with rain through the late morning hours, transitioning to partly cloudy",14.52,10.45,14.52,13.83,9.8,100.0,1.16
+250414078,Bayonne,43.4945144,-1.4736657,2023-11-18,56,3.61,"You can expect partly cloudy in the morning, with clearing in the afternoon",15.08,8.96,15.35,14.11,10.51,0.0,0
+250414078,Bayonne,43.4945144,-1.4736657,2023-11-19,64,2.12,"You can expect clear sky in the morning, with partly cloudy in the afternoon",17.24,11.44,17.24,16.69,11.84,0.0,0
+250414078,Bayonne,43.4945144,-1.4736657,2023-11-20,92,7.18,"You can expect partly cloudy in the morning, with rain in the afternoon",14.72,11.73,14.72,14.65,11.94,100.0,1.05
+249415241,La Rochelle,46.1591126,-1.1520434,2023-11-13,87,12.77,Expect a day of partly cloudy with rain,16.64,15.35,17.07,16.63,15.32,100.0,8.25
+249415241,La Rochelle,46.1591126,-1.1520434,2023-11-14,96,12.94,Expect a day of partly cloudy with rain,14.43,13.69,15.03,14.44,13.84,100.0,11.59
+249415241,La Rochelle,46.1591126,-1.1520434,2023-11-15,74,7.89,There will be partly cloudy today,14.44,13.16,14.48,13.87,12.75,0.0,0
+249415241,La Rochelle,46.1591126,-1.1520434,2023-11-16,87,12.37,Expect a day of partly cloudy with rain,16.15,12.85,16.15,16.09,13.77,100.0,8.72
+249415241,La Rochelle,46.1591126,-1.1520434,2023-11-17,64,10.49,Expect a day of partly cloudy with rain,12.14,10.39,13.2,11.08,9.36,20.0,0.39
+249415241,La Rochelle,46.1591126,-1.1520434,2023-11-18,65,5.78,There will be partly cloudy today,11.42,8.73,12.35,10.31,9.79,0.0,0
+249415241,La Rochelle,46.1591126,-1.1520434,2023-11-19,74,5.12,Expect a day of partly cloudy with clear spells,14.39,11.49,14.39,13.82,13.36,0.0,0
+249415241,La Rochelle,46.1591126,-1.1520434,2023-11-20,70,10.92,Expect a day of partly cloudy with rain,13.58,11.66,14.31,12.82,10.76,100.0,1.3
